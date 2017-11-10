@@ -8,7 +8,7 @@
 
 <body>
   <?php
-  $txt1 = "My name is Martin"
+  $txt1 = "My name is Martin";
   echo "<h2>". $txt1 . "</h2>";
 
    ?>
