@@ -8,8 +8,8 @@
 
 <body>
   <?php
-  $txt1 = "<h2>My name is </h2>"
-  echo . $txt1 . "Martin";
+  $txt1 = "My name is Martin"
+  echo "<h2>". $txt1 . "</h2>";
 
    ?>
 
