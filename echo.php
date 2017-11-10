@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Handboek</title>
+  <title>Testen PHP</title>
 </head>
 
 <body>
